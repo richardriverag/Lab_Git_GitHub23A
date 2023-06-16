@@ -29,3 +29,5 @@ es que la longitud de una línea **no debería superar los 80 caracteres**.
 ## R
 ### Roxygen2 docstrings
 [https://github.com/r-lib/roxygen2]
+
+
