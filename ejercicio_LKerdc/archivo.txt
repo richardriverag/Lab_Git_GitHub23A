@@ -1,0 +1,4 @@
+mi primera linea de codigo (Corregida)
+Un saludo al barufis
+linea de codigo, conflicto resuelto
+nueva linea de codigo en futuro_conflicto
