@@ -1,0 +1,7 @@
+Mi primera linea de codigo corregida
+Buenas tardes noches gente
+<<<<<<< HEAD
+nueva linea de codigo con conflicto resuelto
+=======
+nueva linea de codigo con conflicto resuelto
+>>>>>>> futuro_conflicto
